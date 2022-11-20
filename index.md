@@ -1,1 +1,1 @@
-Page Accueil
+Accueil
